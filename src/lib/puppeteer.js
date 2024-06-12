@@ -137,7 +137,7 @@ CONTATO ☎️
 
       if (!elementCheck) break
 
-      // await page.keyboard.press('Space')
+      await page.keyboard.press('Space')
 
    }
 
