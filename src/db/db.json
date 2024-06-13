@@ -1,10 +1,27 @@
 {
   "show_browser": true,
   "config": {
-    "email": "fabriciodelima06@gmail.com",
-    "senha": "XgdUj@3gVJibFqP",
-    "qtd_total_posts": "2",
+    "email": "",
+    "senha": "",
+    "qtd_total_posts": "20",
     "time_in_second_between_posts": "2000"
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "3079014",
+      "titulo": "BMW BMW/X3 M40I",
+      "descricao": "Gasolina, Azul, 2018",
+      "img": "https://s3.amazonaws.com/plataformaweb-pwauto-servidor-02-veiculos-imagens/3113-tn/3079014/01-01-01-1713797366-bmw-bmw-x3-m40i-3-0-gasolina-2018-azul-4-portas.jpg",
+      "url": "/bmw-bmw-x3-m40i-3-0-gasolina-2018-azul-4-portas/seminovo/3079014",
+      "posted_at": "2024-06-13T00:04:49.210Z"
+    },
+    {
+      "id": "3066853",
+      "titulo": "BMW X2 SDRIVE 2.0",
+      "descricao": "Gasolina, Branco, 2019",
+      "img": "https://s3.amazonaws.com/plataformaweb-pwauto-servidor-02-veiculos-imagens/3113-tn/3066853/01-01-01-1694781997-bmw-x2-sdrive-2-0-2-0-gasolina-2019-branco-.jpg",
+      "url": "/bmw-x2-sdrive-2-0-2-0-gasolina-2019-branco-4-portas/seminovo/3066853",
+      "posted_at": "2024-06-13T00:04:54.204Z"
+    }
+  ]
 }
